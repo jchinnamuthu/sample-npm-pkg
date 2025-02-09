@@ -1,0 +1,19 @@
+{
+  "name": "jk-npm-package",
+  "version": "0.0.2",
+  "description": "A sample npm package for demonstration purposes.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "sample",
+    "package"
+  ],
+  "author": "Jeyakumar Chinnamuthu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
